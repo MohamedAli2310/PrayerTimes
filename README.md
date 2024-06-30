@@ -9,8 +9,8 @@ This application displays prayer times and plays the adhan (call to prayer) at t
 
 1. Clone the repository:
 
-  ```
- git clone https://github.com/MohamedAli2310/PrayerTimes.git
+```
+git clone https://github.com/MohamedAli2310/PrayerTimes.git
 ```
 
 > If this fails for macOS, you'll need to install Xcode command line interface. Run `xcode-select --install`
@@ -36,15 +36,15 @@ python -m venv venv
 5. Activate the virtual environment:
    - On Windows:
 
-     ``` 
-	 venv\Scripts\activate
-	 ```
+     ```
+     venv\Scripts\activate
+     ```
 
    - On macOS and Linux:
 
      ```
      source venv/bin/activate
-	```
+     ```
 
 > Note: you can use condo or any other virtual environment manager of your choice.
 
