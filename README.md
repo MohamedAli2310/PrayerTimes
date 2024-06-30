@@ -23,31 +23,37 @@ This application displays prayer times and plays the adhan (call to prayer) at t
 
 3. Navigate to the project directory:
 
-   ``` cd PrayerTimes ```
+```
+cd PrayerTimes 
+```
 
 4. Create a virtual environment (optional but recommended):
 
-  ```
- python -m venv venv
+```
+python -m venv venv
 ```
 
 5. Activate the virtual environment:
    - On Windows:
 
-     ``` venv\Scripts\activate
-```
+     ``` 
+	 venv\Scripts\activate
+	 ```
 
    - On macOS and Linux:
 
      ```
-source venv/bin/activate
-```
+     source venv/bin/activate
+	```
 
 > Note: you can use condo or any other virtual environment manager of your choice.
 
 6. Install required packages:
 
-  ```  pip install -r requirements.txt ```
+  ```  
+  pip install -r requirements.txt 
+  
+  ```
 
 ## Additional Resources
 
@@ -60,7 +66,9 @@ source venv/bin/activate
 
 8. Run the application:
 
-   ``` python prayer_times.py ```
+   ``` 
+   python prayer_times.py 
+   ```
 
 ## Usage
 
